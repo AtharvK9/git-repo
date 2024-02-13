@@ -1,9 +1,0 @@
-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
-
-git remote set-url origin https://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@github.com/AtharvK9/git-repo
-
-this is a new line
-
-this is a 2nd new line
-
-we are using GUI
